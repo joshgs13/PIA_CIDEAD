@@ -1,15 +1,9 @@
-# Tarea 1 - PIA
-Este archivo se ha creado siguiendo las instrucciones que acompañan la Tarea 1 de la asignatura de Programación de Inteligencia Artificial.
+# Programación de Inteligencia Artificial
+Este espacio está destinado a subir las actividades de las diferentes unidades temáticas que componen este Curso de Especialización en Inteligencia Artificial y Big Data impartido por el cidead.
 
-## Contenido de la actividad🚀
-```
-* Cuenta de GitHub y un repositorio específico para la asignatura.
-* Archivo README.md con el contenido de la actividad.
-* Archivo Hola Mundo en Python.
-```
 
-## Otras tareas realizadas 📋
+
+## Estructura del repositorio 🛠️
 ```
-* Seguir en Linkedin a la Comunidad Spain AI 
-* Buscar y seguir a expertos en el ambito de la Inteligencia Artificial
+Las distintas unidades temáticas se encuentran separadas por carpetas para una mayor organización.
 ```
